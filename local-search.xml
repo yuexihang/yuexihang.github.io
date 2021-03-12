@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2021/03/11/hello-world/"/>
-    <url>/2021/03/11/hello-world/</url>
+    <title>岳希航的hexo使用手册</title>
+    <link href="/2021/03/12/%E5%B2%B3%E5%B8%8C%E8%88%AA%E7%9A%84hexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/"/>
+    <url>/2021/03/12/%E5%B2%B3%E5%B8%8C%E8%88%AA%E7%9A%84hexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="岳希航的hexo-blog手册"><a href="#岳希航的hexo-blog手册" class="headerlink" title="岳希航的hexo blog手册"></a>岳希航的hexo blog手册</h1><h3 id="日常我需要的使用手册"><a href="#日常我需要的使用手册" class="headerlink" title="日常我需要的使用手册"></a>日常我需要的使用手册</h3><h5 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h5><p><code>hexo clean </code><br><code>hexo g </code><br><code>hexo s </code><br><code>hexo d </code></p><h5 id="常用网址"><a href="#常用网址" class="headerlink" title="常用网址"></a>常用网址</h5><p>模板Fluid官网：<a href="https://hexo.fluid-dev.com/docs/">https://hexo.fluid-dev.com/docs/</a><br>Hexo官网：<a href="https://hexo.io/">https://hexo.io/</a></p><h3 id="搭建时我的参考手册"><a href="#搭建时我的参考手册" class="headerlink" title="搭建时我的参考手册"></a>搭建时我的参考手册</h3><h5 id="Hexo-Github搭建："><a href="#Hexo-Github搭建：" class="headerlink" title="Hexo+Github搭建："></a>Hexo+Github搭建：</h5><p><a href="https://zhuanlan.zhihu.com/p/26625249">https://zhuanlan.zhihu.com/p/26625249</a></p><h5 id="Hexo的使用"><a href="#Hexo的使用" class="headerlink" title="Hexo的使用"></a>Hexo的使用</h5><ul><li><a href="https://zhuanlan.zhihu.com/p/129245387">https://zhuanlan.zhihu.com/p/129245387</a></li><li><a href="https://hexo.io/zh-cn/docs/">https://hexo.io/zh-cn/docs/</a></li></ul><h5 id="个人域名绑定："><a href="#个人域名绑定：" class="headerlink" title="个人域名绑定："></a>个人域名绑定：</h5><p><a href="https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#">https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#</a></p><p>注意：阿里云上的域名必须首先完成实名认证，虽然阿里云控制台里面ink域名没有显示必须实名认证（它上面列举了一些后缀称必须实名认证才可以使用，里面并没有ink域名），但我发现怎么都解析不成功，这浪费了我大量的时间，令人厌恶的阿里云。</p>]]></content>
     
     
     
@@ -17,27 +17,13 @@
   
   
   <entry>
-    <title>我的Hexo-Github博客搭建笔记</title>
-    <link href="/2020/04/10/%E6%B5%8B%E8%AF%95%E7%AC%94%E8%AE%B0/"/>
-    <url>/2020/04/10/%E6%B5%8B%E8%AF%95%E7%AC%94%E8%AE%B0/</url>
+    <title>Hello World</title>
+    <link href="/2021/03/11/hello-world/"/>
+    <url>/2021/03/11/hello-world/</url>
     
-    <content type="html"><![CDATA[]]></content>
-    
-    
-    <categories>
-      
-      <category>野生技术</category>
-      
-    </categories>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
-    <tags>
-      
-      <tag>hexo</tag>
-      
-      <tag>笔记</tag>
-      
-    </tags>
     
   </entry>
   
