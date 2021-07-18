@@ -5,15 +5,15 @@
   
   <entry>
     <title>GitHub使用简记</title>
-    <link href="/2021/04/26/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB%E7%9A%84%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95/GitHub%E4%BD%BF%E7%94%A8%E7%AE%80%E8%AE%B0/"/>
-    <url>/2021/04/26/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB%E7%9A%84%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95/GitHub%E4%BD%BF%E7%94%A8%E7%AE%80%E8%AE%B0/</url>
+    <link href="/2021/04/26/%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95/GitHub%E4%BD%BF%E7%94%A8%E7%AE%80%E8%AE%B0/"/>
+    <url>/2021/04/26/%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95/GitHub%E4%BD%BF%E7%94%A8%E7%AE%80%E8%AE%B0/</url>
     
     <content type="html"><![CDATA[<h1 id="GitHub使用简记"><a href="#GitHub使用简记" class="headerlink" title="GitHub使用简记"></a>GitHub使用简记</h1><h2 id="建立连接"><a href="#建立连接" class="headerlink" title="建立连接"></a>建立连接</h2><p>使用ssh，将本地电脑与Github账户连接起来。</p><h2 id="fork"><a href="#fork" class="headerlink" title="fork"></a>fork</h2><p>fork需要运行、更新的repository，可以复制一份到自己的repositories。</p><h2 id="clone"><a href="#clone" class="headerlink" title="clone"></a>clone</h2><p>将自己的repository clone到本地，进行二次开发。</p><h2 id="上传"><a href="#上传" class="headerlink" title="上传"></a>上传</h2><p>add、commit、push，将本地的代码发布到自己GitHub中的repository。</p><h2 id="pull"><a href="#pull" class="headerlink" title="pull"></a>pull</h2><p>申请将自己的repository与原本的repository合并。</p>]]></content>
     
     
     <categories>
       
-      <category>杂七杂八的技术实践记录</category>
+      <category>技术实践记录</category>
       
     </categories>
     
@@ -24,15 +24,15 @@
   
   <entry>
     <title>使用Latex制作简历</title>
-    <link href="/2021/04/08/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB%E7%9A%84%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95/%E4%BD%BF%E7%94%A8Latex%E5%88%B6%E4%BD%9C%E7%AE%80%E5%8E%86/"/>
-    <url>/2021/04/08/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB%E7%9A%84%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95/%E4%BD%BF%E7%94%A8Latex%E5%88%B6%E4%BD%9C%E7%AE%80%E5%8E%86/</url>
+    <link href="/2021/04/08/%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95/%E4%BD%BF%E7%94%A8Latex%E5%88%B6%E4%BD%9C%E7%AE%80%E5%8E%86/"/>
+    <url>/2021/04/08/%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95/%E4%BD%BF%E7%94%A8Latex%E5%88%B6%E4%BD%9C%E7%AE%80%E5%8E%86/</url>
     
     <content type="html"><![CDATA[<h1 id="入门Latex并使用Latex制作简历"><a href="#入门Latex并使用Latex制作简历" class="headerlink" title="入门Latex并使用Latex制作简历"></a>入门Latex并使用Latex制作简历</h1><h2 id="Step1-安装Texlive（也可其他）"><a href="#Step1-安装Texlive（也可其他）" class="headerlink" title="Step1:安装Texlive（也可其他）"></a>Step1:安装Texlive（也可其他）</h2><p>直接官网下载安装即可，文件较大，需要较长时间。</p><h2 id="Step2-Latex基础语法"><a href="#Step2-Latex基础语法" class="headerlink" title="Step2:Latex基础语法"></a>Step2:Latex基础语法</h2><blockquote><p>参考文章：<a href="https://zhuanlan.zhihu.com/p/52347414">https://zhuanlan.zhihu.com/p/52347414</a> 这篇文章介绍了Latex的基本语法</p></blockquote><h2 id="Step3-在OverLeaf上找合适的模板"><a href="#Step3-在OverLeaf上找合适的模板" class="headerlink" title="Step3:在OverLeaf上找合适的模板"></a>Step3:在OverLeaf上找合适的模板</h2><blockquote><p><a href="https://www.overleaf.com/latex/templates/tagged/cv">https://www.overleaf.com/latex/templates/tagged/cv</a><br>可以下载下来编辑，也可以直接在线编辑。</p></blockquote><h2 id="Step4-将模板内的信息替换即可"><a href="#Step4-将模板内的信息替换即可" class="headerlink" title="Step4:将模板内的信息替换即可"></a>Step4:将模板内的信息替换即可</h2><p>没什么问题。</p><h2 id="问题与解决"><a href="#问题与解决" class="headerlink" title="问题与解决"></a>问题与解决</h2><ul><li>中文问题<br>Latex对中文的支持不太友好，我参考了该文章解决了中文问题：<blockquote><p><a href="https://www.cnblogs.com/chester-cs/p/12343942.html">https://www.cnblogs.com/chester-cs/p/12343942.html</a></p></blockquote></li></ul>]]></content>
     
     
     <categories>
       
-      <category>杂七杂八的技术实践记录</category>
+      <category>技术实践记录</category>
       
     </categories>
     
@@ -42,16 +42,16 @@
   
   
   <entry>
-    <title>VMware使用</title>
-    <link href="/2021/03/24/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB%E7%9A%84%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95/VMware%E4%BD%BF%E7%94%A8/"/>
-    <url>/2021/03/24/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB%E7%9A%84%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95/VMware%E4%BD%BF%E7%94%A8/</url>
+    <title>VMware安装使用</title>
+    <link href="/2021/03/24/%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95/VMware%E4%BD%BF%E7%94%A8/"/>
+    <url>/2021/03/24/%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95/VMware%E4%BD%BF%E7%94%A8/</url>
     
-    <content type="html"><![CDATA[<h1 id="VMware使用"><a href="#VMware使用" class="headerlink" title="VMware使用"></a>VMware使用</h1><h2 id="CentOS7安装"><a href="#CentOS7安装" class="headerlink" title="CentOS7安装"></a>CentOS7安装</h2><blockquote><p>参考文章：<a href="https://www.jianshu.com/p/e31534077185">https://www.jianshu.com/p/e31534077185</a></p></blockquote><p>该教程整体上还可以，只是按着这个一步一步走的话最后安装的是最简单的版本，如果需要图形化界面的话，需要自己在安装简介（INSTALLATION SUMMARY）那里注意选择一下，如下图。</p><p><img src="/2021/03/24/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB%E7%9A%84%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95/VMware%E4%BD%BF%E7%94%A8/image-20210324193746504.png"></p><p><img src="/2021/03/24/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB%E7%9A%84%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95/VMware%E4%BD%BF%E7%94%A8/image-20210324193624062.png"></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="VMware安装使用"><a href="#VMware安装使用" class="headerlink" title="VMware安装使用"></a>VMware安装使用</h1><h2 id="CentOS7安装"><a href="#CentOS7安装" class="headerlink" title="CentOS7安装"></a>CentOS7安装</h2><blockquote><p>参考文章：<a href="https://www.jianshu.com/p/e31534077185">https://www.jianshu.com/p/e31534077185</a></p></blockquote><p>该教程整体上还可以，只是按着这个一步一步走的话最后安装的是最简单的版本，如果需要图形化界面的话，需要自己在安装简介（INSTALLATION SUMMARY）那里注意选择一下，如下图。</p><p><img src="/2021/03/24/%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95/VMware%E4%BD%BF%E7%94%A8/image-20210324193746504.png"></p><p><img src="/2021/03/24/%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95/VMware%E4%BD%BF%E7%94%A8/image-20210324193624062.png"></p>]]></content>
     
     
     <categories>
       
-      <category>杂七杂八的技术实践记录</category>
+      <category>技术实践记录</category>
       
     </categories>
     
